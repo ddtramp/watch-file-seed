@@ -26,3 +26,9 @@
 
 	app/
 		index.html
+
+4. first run you need:
+
+	npm install
+	
+	bower install
