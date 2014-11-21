@@ -14,12 +14,15 @@
 
 ## notice
 
-you should change package.json `appPath` and `ipAddress`; 
+1. you should change package.json `appPath` and `ipAddress`; 
 
-and 
-
-i only add one command 
+2. i only add one command 
 
     serve or server
     
     the default is serve
+
+3. you must add index.html under `app`, like this:
+
+	app/
+		index.html
