@@ -1,0 +1,25 @@
+{
+  "name": "kissy",
+  "version": "1.0.0",
+  "authors": [
+    "ddtramp <wangxichao001@gmail.com>"
+  ],
+  "description": "bower kissy",
+  "keywords": [
+    "bower",
+    "kissy"
+  ],
+  "license": "MIT",
+  "homepage": "none",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "kissy": "~5.0.1"
+  }
+}

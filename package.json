@@ -1,0 +1,24 @@
+{
+  "name": "watch",
+  "version": "1.0.0",
+  "description": "file watch",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "jack",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-connect": "^0.9.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^1.0.0"
+  },
+
+  "appPath": "app",
+  "ipAddress": "192.168.1.195"
+
+}
